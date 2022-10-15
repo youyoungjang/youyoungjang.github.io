@@ -41,31 +41,9 @@ round-avatar: true
 social-network-links:
   email: "pushkin522@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: yourname
   github: youyoungjang
-  # twitter: yourname
-  # patreon: yourname
-  # youtube: c/yourname
   medium: youyoung-jang
-#  reddit: yourname
   linkedin: youyoungjang
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: yourname
-#  instagram: yourname
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: yourname
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
-#  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
