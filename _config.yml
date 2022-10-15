@@ -11,10 +11,10 @@ author: Youyoung Jang
 
 navbar-links:
   About Me: "aboutme"
+  Author's LinkedIn: "https://www.linkedin.com/in/youyoungjang/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -22,7 +22,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/sisysphus.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,21 +41,21 @@ round-avatar: true
 social-network-links:
   email: "pushkin522@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
+  # facebook: yourname
   github: youyoungjang
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: c/daattali
+  # twitter: yourname
+  # patreon: yourname
+  # youtube: c/yourname
   medium: youyoung-jang
 #  reddit: yourname
   linkedin: youyoungjang
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
